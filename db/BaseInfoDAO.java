@@ -1,4 +1,3 @@
-package com.frkj.pda.db;
 
 import android.content.ContentValues;
 import android.content.Context;
